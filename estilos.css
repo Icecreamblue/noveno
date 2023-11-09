@@ -3,3 +3,7 @@ body{
   font-family:italics ;
   font-size:100 px ;
 }
+aside{
+  background-color:yellow
+  float:right;
+}
